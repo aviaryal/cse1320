@@ -1,0 +1,5 @@
+instruction function enter command
+		The program should pause until the user presses <ENTER> to continue; 
+		otherwise, the instructions roll off the screen when the initial map is printed.
+hW Q-21
+Q-10
